@@ -1,0 +1,10 @@
+{
+  "name": "vx-js-fixtures",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Synthetic SAST benchmark fixtures",
+  "main": "src/vulnerable.js",
+  "dependencies": {
+    "express": "4.21.2"
+  }
+}

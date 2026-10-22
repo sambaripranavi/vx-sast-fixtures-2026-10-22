@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rails (8.0.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rails (= 8.0.3)
+
+BUNDLED WITH
+   2.5.22
